@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-rdbm",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Baltazar <rbleinad@gmail.com>",
+  "license": "MIT",
+  "bin":{
+    "random-str-msg-rdbm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
