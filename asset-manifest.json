@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danybal/curso-react-intro/static/css/main.d2d86e9f.css",
+    "main.js": "/danybal/curso-react-intro/static/js/main.f89f29aa.js",
+    "index.html": "/danybal/curso-react-intro/index.html",
+    "static/media/delete.svg": "/danybal/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/danybal/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.d2d86e9f.css.map": "/danybal/curso-react-intro/static/css/main.d2d86e9f.css.map",
+    "main.f89f29aa.js.map": "/danybal/curso-react-intro/static/js/main.f89f29aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d86e9f.css",
+    "static/js/main.f89f29aa.js"
+  ]
+}
